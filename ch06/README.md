@@ -1,3 +1,9 @@
+##Ex6.1
+argument is the instance of parameter.
+compiler will need to use argument to initialize parameter.
+
+##Ex6.2
+> Arguments are the initializers for a function's parameters.
 (a) wrong return type
 the return value mismatches what is returned. 
 actually returns a string type.
